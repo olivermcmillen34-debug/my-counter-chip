@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # 0-9 Decade counter
-  author:       ""      # Oliver McMillen
+  title:        "0-9 Decade counter"      # 
+  author:       "Oliver McMillen"      # 
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # A 4-bit decade counter that counts from 0 to 9 and resets.
+  description:  "A 4-bit decade counter that counts from 0 to 9 and resets."      # 
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
